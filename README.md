@@ -15,7 +15,7 @@ Une application interactive utilisant la **webcam** pour détecter le **visage, 
 
 ## 🛠️ Technologies utilisées
 
-- **Python 3.x**  
+- **Python 3.10**  
 - **OpenCV** – capture vidéo, détection de visage et traitement d’images.  
 - **Tkinter** – interface graphique pour l’utilisateur.  
 - **Pillow (PIL)** – manipulation et affichage des images.
